@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f35750e1-944d-4503-83d8-34ab48953446" name="Changes" comment="" />
+    <list default="true" id="f35750e1-944d-4503-83d8-34ab48953446" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/frontendframework/base/Base.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frontendframework/base/Base.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/frontendframework/resource/staticResource/Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frontendframework/resource/staticResource/Static.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/frontendframework/utilities/excel/ExcelData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frontendframework/utilities/excel/ExcelData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/frontendframework/utilities/extendReports/ExtendReports.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frontendframework/utilities/extendReports/ExtendReports.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/frontendframework/base/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/frontendframework/base/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/frontendframework/resource/staticResource/Static.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/frontendframework/resource/staticResource/Static.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/frontendframework/utilities/excel/ExcelData.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/frontendframework/utilities/excel/ExcelData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/frontendframework/utilities/extendReports/ExtendReports.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/frontendframework/utilities/extendReports/ExtendReports.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +31,17 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Devi" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
   </component>
   <component name="ProjectId" id="2leXmLIM9kxV5G16xkk77Ob4JTh" />
   <component name="ProjectViewState">
@@ -29,15 +52,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Krishnaraj/Desktop/Devi_Testing/NewPracticeFramework/liya",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
   <component name="RunManager">
     <configuration name="Base" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="frontendframework.base.Base" />
-      <module name="Frontend_Framework" />
+      <module name="Devi" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="frontendframework.base.*" />
