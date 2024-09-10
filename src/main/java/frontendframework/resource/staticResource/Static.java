@@ -8,6 +8,11 @@ public class Static
 {
 public static WebDriver driver;
 public static Properties prop;
+public static int TEST_CASE_ID;
+
+public static void TestCaseID(int id){
+        TEST_CASE_ID = id;
+    }
 
 
 }
