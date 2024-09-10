@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f35750e1-944d-4503-83d8-34ab48953446" name="Changes" comment="created Excel data,static class,extend reports class">
-      <change afterPath="$PROJECT_DIR$/src/test/java/sampleTestcase/SampleTest.java" afterDir="false" />
+    <list default="true" id="f35750e1-944d-4503-83d8-34ab48953446" name="Changes" comment="Wrote test case, code for Screenshot,static class">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/frontendframework/resource/staticResource/Static.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frontendframework/resource/staticResource/Static.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/frontendframework/utilities/screenshot/Screenshot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/frontendframework/utilities/screenshot/Screenshot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/frontendframework/base/Base.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/frontendframework/base/Base.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/frontendframework/resource/staticResource/Static.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/frontendframework/resource/staticResource/Static.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/frontendframework/utilities/screenshot/Screenshot.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/frontendframework/utilities/screenshot/Screenshot.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,17 +40,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Krishnaraj/Desktop/Devi_Testing/NewPracticeFramework/liya&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Krishnaraj/Desktop/Devi_Testing/NewPracticeFramework/liya",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="TestNG.SampleTest.method1">
     <configuration name="Base" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="frontendframework.base.Base" />
@@ -120,11 +120,19 @@
       <option name="project" value="LOCAL" />
       <updated>1725627322870</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Wrote test case, code for Screenshot,static class">
+      <created>1725998941780</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725998941783</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="created Excel data,static class,extend reports class" />
-    <option name="LAST_COMMIT_MESSAGE" value="created Excel data,static class,extend reports class" />
+    <MESSAGE value="Wrote test case, code for Screenshot,static class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wrote test case, code for Screenshot,static class" />
   </component>
 </project>
